@@ -1,10 +1,8 @@
-<h2 align="left">Hola 👋 Soy Camila</h2>
+# Hola 👋
 
-###
+### Mi nombre es Camila y soy Desarrolladora Web Frontend
 
-<p align="left">Soy Desarrolladora Web Frontend de Argentina</p>
-
-###
+### 🛠 Lenguajes y herramientas que utilizo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -33,13 +31,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
 </div>
 
 
 <br clear="both">
 
-<img align="right" height="170" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif"  />
+<div align="center">
+  <img align="right" height="170" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif"  />
+</div>
+
+###
+
 
 ###
 
