@@ -1,6 +1,6 @@
 # Hola 👋
 
-### Mi nombre es Camila y soy Desarrolladora Web Frontend
+### Soy Desarrolladora Web Frontend
 
 ### 🛠 Lenguajes y herramientas que utilizo
 
