@@ -19,7 +19,7 @@
 
 ### <div align="center"> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdkbWF2MDhtYnNqajc2ZWUxbTRoNWY2bHpncnhkOWs4eW54NGk5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width = 50px> Tecnologías que manejo </div> 
 <br>
-<div align="center" style="display: block;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
