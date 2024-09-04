@@ -6,7 +6,7 @@
 
 </div>
 
-<picture><img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtN2o2ZXltZHlkc3BibGU2ZTcxaXQ4cnNzYzVjb3UzZDBwZWtiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy-downsized-large.gif" width=200px></picture>
+<picture><img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI3NmUyM3MwdzIxa2MycmhqdGs5cmVtc2p2amhmc3EyM2E0MmliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vKH4mU0p1leRjYRyjx/giphy.gif" width="200px"></picture>
 
 <br><br>
 
@@ -17,7 +17,7 @@
 
 <br><br><br><br><br><br>
 
-### <div align="center"> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdkbWF2MDhtYnNqajc2ZWUxbTRoNWY2bHpncnhkOWs4eW54NGk5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width = 50px> Tecnologías que manejo </div> 
+### <div align="center"> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc4ejBpbDd2MGRudnlwd2N5MmQ0aHY1NDFlbHZmaDFwNTVxdXo3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HV0tHmPREaD0sIixmg/giphy.gif" width = 50px> Tecnologías que manejo </div> 
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
