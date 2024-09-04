@@ -6,7 +6,7 @@
 
 </div>
 
-<picture><img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtN2o2ZXltZHlkc3BibGU2ZTcxaXQ4cnNzYzVjb3UzZDBwZWtiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy-downsized-large.gif" width="200px"></picture>
+<picture><img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtN2o2ZXltZHlkc3BibGU2ZTcxaXQ4cnNzYzVjb3UzZDBwZWtiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAmnJKCwuXtDiEhNwg/giphy-downsized-large.gif" width=200px></picture>
 
 <br><br>
 
@@ -49,13 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-    <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
+
 </div>
 
 <br>
