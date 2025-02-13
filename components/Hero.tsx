@@ -32,7 +32,7 @@ const Hero = () => {
             Me apasiona hacer aplicaciones web útiles e intuitivas
           </p>
 
-          <a href='https://drive.google.com/file/d/1-KjzMzAsHf4c60cjtvA5MyHeTzU31Yvf/view?usp=drive_link' target='_blank'>
+          <a href='' target='_blank'>
             <MagicButton 
               title='Descargar CV'
               icon={<IoDownloadOutline />}
