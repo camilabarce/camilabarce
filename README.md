@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=14&duration=4000&pause=1000&color=C8FDC6CE&center=true&width=435&lines=Analista+Programadora+en+Desarrollo+de+Aplicaciones;Desarrollando+con+React,+TypeScript,+Express...;Apasionada+por+las+aplicaciones+útiles+y+amigables)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=14&duration=4000&pause=1000&color=C8FDC6CE&center=true&width=435&lines=Analista+Programadora+en+Desarrollo+de+Aplicaciones;Desarrollando+con+React,+Angular,+TypeScript,+Node;Apasionada+por+las+aplicaciones+útiles+y+amigables)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,8 @@
 
 <br><br>
 
-
-- <img src="https://em-content.zobj.net/source/apple/391/open-book_1f4d6.png" width="18px"> Actualmente estoy profundizando mis conocimientos en `Desarrollo Backend con Java Spring Boot`.
-- <img src="https://em-content.zobj.net/source/apple/391/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png" width="18px"> Estoy abierta a una `oportunidad laboral`.
+- <img src="https://em-content.zobj.net/source/apple/391/open-book_1f4d6.png" width="18px"> Actualmente estoy profundizando mis conocimientos en `Diseño UX/UI`.
+- <img src="https://em-content.zobj.net/source/apple/391/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png" width="18px"> Estoy abierta a `colaborar en proyectos`.
 - <img src="https://em-content.zobj.net/source/apple/391/envelope-with-arrow_1f4e9.png" width="18px"> Contactame por <a href="mailto:arce.b.camila@gmail.com" target="_blank">Gmail</a> o <a href="https://www.linkedin.com/in/camilabarce/" target="_blank">LinkedIn</a>.
 
 
