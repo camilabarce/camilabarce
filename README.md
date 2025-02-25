@@ -10,14 +10,14 @@
 
 <br><br>
 
-- <img src="https://em-content.zobj.net/source/apple/391/open-book_1f4d6.png" width="18px"> Actualmente estoy profundizando mis conocimientos en `Diseño UX/UI`.
-- <img src="https://em-content.zobj.net/source/apple/391/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png" width="18px"> Estoy abierta a `colaborar en proyectos`.
-- <img src="https://em-content.zobj.net/source/apple/391/envelope-with-arrow_1f4e9.png" width="18px"> Contactame por <a href="mailto:arce.b.camila@gmail.com" target="_blank">Gmail</a> o <a href="https://www.linkedin.com/in/camilabarce/" target="_blank">LinkedIn</a>.
+- <img src="https://em-content.zobj.net/source/apple/391/open-book_1f4d6.png" width="18px"> Actualmente estoy trabajando en `Desarrollo Web` de manera `freelance`.
+- <img src="https://em-content.zobj.net/source/apple/391/woman-technologist-light-skin-tone_1f469-1f3fb-200d-1f4bb.png" width="18px"> Estoy abierta a `oportunidades laborales`.
+- <img src="https://em-content.zobj.net/source/apple/391/envelope-with-arrow_1f4e9.png" width="18px"> Contactame por <a href="mailto:arce.b.camila@gmail.com" target="_blank">Gmail</a> ó <a href="https://www.linkedin.com/in/camilabarce/" target="_blank">LinkedIn</a>.
 
 
 <br><br><br><br><br><br>
 
-### <div align="center"> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc4ejBpbDd2MGRudnlwd2N5MmQ0aHY1NDFlbHZmaDFwNTVxdXo3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HV0tHmPREaD0sIixmg/giphy.gif" width = 50px> Tecnologías que manejo </div> 
+### <div align="center"> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc4ejBpbDd2MGRudnlwd2N5MmQ0aHY1NDFlbHZmaDFwNTVxdXo3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HV0tHmPREaD0sIixmg/giphy.gif" width = 50px> Tecnologías que utilizo </div> 
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
