@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://em-content.zobj.net/source/apple/118/waving-hand-sign_emoji-modifier-fitzpatrick-type-4_1f44b-1f3fd_1f3fd.png" width="25"> Hola, soy Camila</h1>
+<h1 align="center"><img src="https://em-content.zobj.net/source/apple/118/waving-hand-sign_emoji-modifier-fitzpatrick-type-4_1f44b-1f3fd_1f3fd.png" width="25"> Hola</h1>
 
 <div align="center">
 
@@ -38,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="prisma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
