@@ -17,7 +17,7 @@
 
 <br><br><br><br><br><br>
 
-### <div align="center"> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc4ejBpbDd2MGRudnlwd2N5MmQ0aHY1NDFlbHZmaDFwNTVxdXo3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HV0tHmPREaD0sIixmg/giphy.gif" width = 50px> Tecnologías que utilizo </div> 
+### <div align="center"> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc4ejBpbDd2MGRudnlwd2N5MmQ0aHY1NDFlbHZmaDFwNTVxdXo3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HV0tHmPREaD0sIixmg/giphy.gif" width = 50px> Tecnologías que más utilizo </div> 
 <br>
 <div align="center">
 
